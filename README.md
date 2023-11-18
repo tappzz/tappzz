@@ -1,5 +1,5 @@
-- 👋 Hi, I’m tappzz
-- 🌱 I’m currently learning CS and Web development
+👋 Hi, I’m tappzz
+🌱 I’m currently learning CS and Web development
 
 
 <!---
