@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning CS and Web development
 
+Links:
+
 https://typingstats.com/profile/257512656951447552
 
 
